@@ -3,5 +3,5 @@ def greeting(name)
 end
 
 puts "Enter your name here"
-x = gets.chomp()
+x = gets
 greeting(x)
